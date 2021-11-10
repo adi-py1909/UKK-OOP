@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.Form1.resources
+C:\Users\ASUS\source\repos\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.Properties.Resources.resources
+C:\Users\ASUS\source\repos\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CRUDMsAccess\CRUDMsAccess\bin\Debug\CrudMsAccess.accdb
+C:\Users\ASUS\source\repos\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.exe.config
+C:\Users\ASUS\source\repos\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.exe
+C:\Users\ASUS\source\repos\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.pdb
+C:\Users\ASUS\source\repos\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.exe
+C:\Users\ASUS\source\repos\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.pdb
